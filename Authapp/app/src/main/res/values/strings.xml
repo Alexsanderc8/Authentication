@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Authapp</string>
+    <string name="AuthBy">Authentication By</string>
+    <string name="Email">Email</string>
+    <string name="Sms">SMS</string>
+    <string name="ContentDescription">Logo</string>
+    <string name="EnterName">Enter your name</string>
+    <string name="EnterEmail">Enter your email</string>
+    <string name="EnterPass">Enter your password</string>
+    <string name="signin">sign in</string>
+    <string name="NCadastro">Don\'t you have an account? Sign  in</string>
+    <string name="phone">+5522999999999</string>
+    <string name="validate">validate</string>
+</resources>
