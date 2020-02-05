@@ -6,3 +6,6 @@ Coding this app using Java, Windows 10, Android Studio e Firebase!
 -Using Base64 to save data into Firebase
 -Using the library SmartTabLayoult to working with tabs
 -Using the library circleImageView to work with rounded images
+
+#Calculadora
+-Simple Calculator using Java and Androis Studio
